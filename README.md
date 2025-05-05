@@ -6,16 +6,16 @@ E-ticaret için 4 tane metot oluşturulacak.
 3. PuanGoster()
 4. YorumGoster()
 
-<br>
-Ürüne puanınız: 4 
-Yorum: İdare eder
-Ürüne puanınız: 3
+<br><br>
+Ürüne puanınız: 4 <br>
+Yorum: İdare eder <br>
+Ürüne puanınız: 3 <br>
 Yorum: Almayın
 
 <br><br>
-Puan: 3,5
-İdare eder
-Almayın
+Puan: 3,5 <br>
+İdare eder <br>
+Almayın <br>
 
 -------------------------------------------------------------------------------------------
 
