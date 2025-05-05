@@ -11,7 +11,7 @@ E-ticaret için 4 tane metot oluşturulacak.
 <p>Yorum: İdare eder
 <p>Ürüne puanınız: 3
 <p>Yorum: Almayın
-
+<p><p><p>
 <p>Puan: 3,5
 <p>İdare eder
 <p>Almayın
