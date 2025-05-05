@@ -8,8 +8,11 @@ E-ticaret için 4 tane metot oluşturulacak.
 
 
 Ürüne puanınız: 4 
+
 Yorum: İdare eder
+
 Ürüne puanınız: 3
+
 Yorum: Almayın
 
 
