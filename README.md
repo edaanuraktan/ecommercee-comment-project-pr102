@@ -6,6 +6,7 @@ E-ticaret için 4 tane metot oluşturulacak.
 3. PuanGoster()
 4. YorumGoster()
 
+
 Ürüne puanınız: 4 
 <p>Yorum: İdare eder
 <p>Ürüne puanınız: 3
@@ -23,6 +24,7 @@ We will create 4 methods for e-commerce.
 2. Comment()
 3. ShowScore()
 4. ShowComment()
+
 
 Your rating for the product: 4
 Comment: OK
