@@ -15,7 +15,7 @@ Yorum: İdare eder
 
 Yorum: Almayın
 
-<hr>
+<br>
 Puan: 3,5
 
 İdare eder
