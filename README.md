@@ -17,6 +17,8 @@ Almayın
 
 -------------------------------------------------------------------------------------------
 
+We will create 4 methods for e-commerce.
+
 1. Score()
 2. Comment()
 3. ShowScore()
