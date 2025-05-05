@@ -1,4 +1,4 @@
-# Problem
+# Problem:
 E-ticaret için 4 tane metot oluşturulacak.
 
 1. PuanVer()
